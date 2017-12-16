@@ -1,0 +1,19 @@
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+.content {
+    display: inline;
+}
+
+
+.cad {
+    width: 50%;
+    float: left;
+}
+
+.robot {
+    width: 45%;
+    float: right;
+}
